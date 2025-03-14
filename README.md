@@ -1,3 +1,5 @@
+# Sanjana Nandania
+
 
 Welcome to my GitHub profile! I'm a data enthusiast exploring the world of data science, analysis, and management. Passionate about extracting insights from data, building analytical solutions, and leveraging data-driven decision-making. Currently honing my skills in Python, data visualization, and machine learning.
 
