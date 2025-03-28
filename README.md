@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm a data enthusiast exploring the world of data 
 
 ### 💻 [Railway Reservation Project](https://github.com/sanjana0329/Railway-Reservation-Project))  
 - A Java-based application for seamless train ticket booking, cancellation, and PNR status tracking. Built with Java (Swing), MySQL, and JDBC, it ensures secure user authentication, admin control, and real-time availability checks.
+
+- ### 💻 [E- commerce platform : Akshada Ayurveda ](https://github.com/sanjana0329/E-commerce-Infoportal-Akshda-Ayurved-InfoHub)))  
+
+- 
 ## 📚 Learning & Growth
 
 - Currently learning Python and Django to build dynamic web applications and enhance my skills in data science and web development. Exploring backend development, database management, and API integration.
