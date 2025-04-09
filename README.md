@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a data enthusiast exploring the world of data 
 ### 🚆 [Railway Reservation Project](https://github.com/sanjana0329/Railway-Reservation-Project) 
 - A Java-based application for seamless train ticket booking, cancellation, and PNR status tracking. Built with Java (Swing), MySQL, and JDBC, it ensures secure user authentication, admin control, and real-time availability checks.
 
-- ### 💻 [E- commerce platform : Akshada Ayurveda ](https://github.com/sanjana0329/E-commerce-Infoportal-Akshda-Ayurved-InfoHub)
+ ### 💻 [E- commerce platform : Akshada Ayurveda ](https://github.com/sanjana0329/E-commerce-Infoportal-Akshda-Ayurved-InfoHub)
 - A dynamic e-commerce website for Ayurvedic products, built using Python, Django, and HTML. Features include product browsing, user authentication, secure checkout, and database integration with SQLite to ensure a smooth product browsing experience.
 
-- ### 🧮 [BMI Calculator](https://github.com/sanjana0329/BMI-Calculator)
+ ### 🧮 [BMI Calculator](https://github.com/sanjana0329/BMI-Calculator)
 - A Python-based GUI application using Tkinter that calculates and categorizes Body Mass Index (BMI) based on user input for height and weight.
 
  
