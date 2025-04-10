@@ -19,6 +19,13 @@ Welcome to my GitHub profile! I'm a data enthusiast exploring the world of data 
 
  ### 🧮 [BMI Calculator](https://github.com/sanjana0329/BMI-Calculator)
 - A Python-based GUI application using Tkinter that calculates and categorizes Body Mass Index (BMI) based on user input for height and weight.
+  
+### 🔐 [Password Generator](https://github.com/sanjana0329/Password-Generator)
+- A Python-based password generator with a Tkinter GUI that allows users to generate secure passwords based on strength (weak, medium, strong) and length, with the ability to copy the generated password to the clipboard.
+
+### 🌤️ [Weather App](https://github.com/sanjana0329/Weather-APP)
+- A Python-based GUI application using Tkinter that calculates and categorizes Body Mass Index (BMI) based on user input for height and weight.
+
 
  
 ## 📚 Learning & Growth
